@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Pear15</title>
 <meta charset="utf-8">
 </head>
 <body>
